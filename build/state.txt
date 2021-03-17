@@ -1,1 +1,0 @@
-ESP_ROOT=/home/matthew/Documents/Github/ESP/esp32 CHIP=esp32 SKETCH=./src/HelloWorld.ino LIBS=./inc/ BUILD_DIR=./build/ 3b43fc1-dirty 1.0.5-21-g8dc70e0a
